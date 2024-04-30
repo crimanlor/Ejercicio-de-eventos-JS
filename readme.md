@@ -1,4 +1,4 @@
-# Ejercicio de Eventos en JavaScript
+# Ejercicio de Eventos en JavaScript - Curso Desarrollo Aplicaciones con Tecnologías Web
 Este es un pequeño proyecto para explorar diferentes eventos en JavaScript y cómo se pueden utilizar para interactuar con los elementos HTML en una página web.
 
 ## Descripción
